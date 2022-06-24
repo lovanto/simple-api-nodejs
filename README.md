@@ -1,4 +1,4 @@
-# tefa-be-article-app
+# Simple Node JS API
 A simple backend application that mange article
 
 # How to run
